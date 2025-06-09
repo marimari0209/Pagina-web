@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A Natureza em Alerta: O Impacto do Desmatamento na Biodiversidade</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>A Natureza em Alerta: O Impacto do Desmatamento na Biodiversidade</h1>
+        <img src="img/natureza.jpg" alt="Um lugar com muitas árvores e mata nativa preservada.">
+        <p>O desmatamento intensifica fenômenos negativos no meio ambiente e na vida das pessoas, afetando enchentes, temperatura e qualidade de vida.</p>
+        <nav>
+            <ul>
+                <li><a href="#problemas">Os Problemas</a></li>
+                <li><a href="#consequencias">Consequências</a></li>
+                <li><a href="#conclusao">Conclusão</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    
+
+    <main>
+        <section id="problemas" class="conteudo">
+            <h2>Os Problemas</h2>
+            <article>
+                <h3>Aumento das enchentes</h3>
+                <p>As árvores absorvem a água da chuva e ajudam na infiltração no solo. Sem vegetação, a água escoa rapidamente, causando enchentes.</p>
+            </article>
+
+            <article>
+                <h3>Calor excessivo e ilhas de calor</h3>
+                <p>O desmatamento reduz a evapotranspiração das plantas, elevando a temperatura das cidades e aumentando o efeito das ilhas de calor.</p>
+            </article>
+
+            <article>
+                <h3>Redução da qualidade de vida</h3>
+                <p>A destruição das florestas impacta a biodiversidade, aumenta a poluição e reduz o contato com áreas verdes, afetando a saúde mental e respiratória.</p>
+            </article>
+
+            <a href="https://youtu.be/yktUyC7Yqog?si=Rt5s2ZZI3OAI2eha" class="cta-button" target="_blank">Como impacta o mundo? <i class="fa-solid fa-arrow-up-right-from-square" style="color: var(--text-color);"></i></a>
+        </section>
+
+        <section id="consequencias" class="conteudo">
+            <h2>Consequências</h2>
+            <ul>
+                <li>Aumento das enchentes e erosão do solo</li>
+                <li>Aumento das temperaturas e mudanças climáticas</li>
+                <li>Perda da biodiversidade</li>
+                <li>Redução da qualidade de vida nas cidades</li>
+                <li>Agravamento de problemas de saúde</li>
+                <li>Impacto na economia de comunidades locais</li>
+            </ul>
+        </section>
+
+        <section id="conclusao" class="conteudo">
+            <h2>Conclusão</h2>
+            <p>O desmatamento causa sérios danos ao meio ambiente, como a perda da biodiversidade, o aumento das emissões de carbono e o desequilíbrio do clima. Esses impactos afetam diretamente a qualidade de vida das pessoas e comprometem o futuro do planeta. Para combater esse problema, é fundamental preservar as áreas verdes, investir em projetos de reflorestamento e adotar práticas sustentáveis na agricultura, na indústria e no dia a dia. A conscientização e a ação coletiva são essenciais para garantir um ambiente saudável para as próximas gerações.</p>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/yktUyC7Yqog?si=yNH8JVp1-yIYZfEB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </section>
+
+    </main>
+
+    <footer>
+        <a href="https://mapbiomas.org/" class="cta-footer">junte-se a nós, para melhorar o meio ambiente!</a>
+        <p>2025 | @guilhermesantos</p>
+    </footer>
+</body>
+</html>
